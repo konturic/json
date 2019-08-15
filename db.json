@@ -1,23 +1,12 @@
 [
   {
-    "KeyID": 1,
-    "PHARMACY_NAME": "1 STOP PHARMACY",
-    "ADDRESS_1": "1220 AVE P",
- 
-    "distance": 0.1
+    "id": 1,
+    "body": "some comment",
+    "postId": 1
   },
   {
-    "KeyID": 2,
-    "PHARMACY_NAME": "10 PARK PHARMACY",
-    "ADDRESS_1": "53 E 34TH ST",
- 
-    "distance": 0.4
-  },
-  {
-    "KeyID": 3,
-    "PHARMACY_NAME": "101 FIRST CARE PHARMACY INC",
-    "ADDRESS_1": "126-14 101 AVE",
- 
-    "distance": 0.7
+    "id": 2,
+    "body": "some comment",
+    "postId": 1
   }
 ]
