@@ -3,126 +3,21 @@
     "KeyID": 1,
     "PHARMACY_NAME": "1 STOP PHARMACY",
     "ADDRESS_1": "1220 AVE P",
-    "CITY": "BROOKLYN",
-
+ 
     "distance": 0.1
   },
   {
     "KeyID": 2,
     "PHARMACY_NAME": "10 PARK PHARMACY",
     "ADDRESS_1": "53 E 34TH ST",
-    "CITY": "NEW YORK",
-
+ 
     "distance": 0.4
   },
   {
     "KeyID": 3,
     "PHARMACY_NAME": "101 FIRST CARE PHARMACY INC",
     "ADDRESS_1": "126-14 101 AVE",
-    "CITY": "RICHMOND HILL",
-
+ 
     "distance": 0.7
-  },
-  {
-    "KeyID": 4,
-    "PHARMACY_NAME": "103 PHARMACY",
-    "ADDRESS_1": "2002 2ND AVE",
-    "CITY": "NEW YORK",
-
-    "distance": 1
-  },
-  {
-    "KeyID": 5,
-    "PHARMACY_NAME": "110 PHARMACY AND SURGICAL",
-    "ADDRESS_1": "459 WALT WHITMAN RD",
-    "CITY": "MELVILLE",
-
-    "distance": 1.3
-  },
-  {
-    "KeyID": 6,
-    "PHARMACY_NAME": "112 PHARMACY & SURGICAL",
-    "ADDRESS_1": "689 MEDFORD AVE",
-    "CITY": "PATCHOGUE",
-
-    "distance": 1.6
-  },
-  {
-    "KeyID": 7,
-    "PHARMACY_NAME": "133RD ST PHARMACY INC",
-    "ADDRESS_1": "1473 AMSTERDAM AVE",
-    "CITY": "NEW YORK",
-
-    "distance": 1.9
-  },
-  {
-    "KeyID": 8,
-    "PHARMACY_NAME": "139 PHARMACY INC",
-    "ADDRESS_1": "3419 BROADWAY",
-    "CITY": "NEW YORK",
-    "distance": 2.2
-  },
-  {
-    "KeyID": 9,
-    "PHARMACY_NAME": "13TH AVE PHARMACY INC.",
-    "ADDRESS_1": "5211 13TH AVE",
-    "CITY": "BROOKLYN",
-
-    "distance": 2.5
-  },
-  {
-    "KeyID": 10,
-    "PHARMACY_NAME": "1413 FULTON STREET PHARMACY",
-    "ADDRESS_1": "1413 FULTON ST",
-    "CITY": "BROOKLYN",
-
-    "distance": 2.8
-  },
-  {
-    "KeyID": 11,
-    "PHARMACY_NAME": "145TH ST PHARMACY",
-    "ADDRESS_1": "300 WEST 145TH STREET",
-    "CITY": "NEW YORK",
-
-    "distance": 3.1
-  },
-  {
-    "KeyID": 12,
-    "PHARMACY_NAME": "161 ST. PHARMACY & SURGICAL SUPPLIES",
-    "ADDRESS_1": "275 E 161ST ST",
-    "CITY": "BRONX",
-
-    "distance": 3.4
-  },
-  {
-    "KeyID": 13,
-    "PHARMACY_NAME": "167ST PHARMACY",
-    "ADDRESS_1": "1150 WEBSTER AVE",
-    "CITY": "BRONX",
-
-    "distance": 3.7
-  },
-  {
-    "KeyID": 14,
-    "PHARMACY_NAME": "1699 FANCY PHARMACY INC",
-    "ADDRESS_1": "131 ESSEX ST",
-    "CITY": "NEW YORK",
-
-    "distance": 4
-  },
-  {
-    "KeyID": 15,
-    "PHARMACY_NAME": "18 PHARMACY INC.",
-    "ADDRESS_1": "18 ELIZABETH ST",
-    "CITY": "NEW YORK",
-    "distance": 4.3
-  },
-  {
-    "KeyID": 16,
-    "PHARMACY_NAME": "18TH AVE PHARMACY CORP",
-    "ADDRESS_1": "5411 18TH AVE",
-    "CITY": "BROOKLYN",
-
-    "distance": 4.6
   }
 ]
